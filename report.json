@@ -1,0 +1,15 @@
+{
+  "process": "company_incorporation",
+  "documents_uploaded": 1,
+  "required_documents": 5,
+  "missing_document": "Memorandum of Association",
+  "issues_found": [
+    {
+      "document": "adgm-ra-resolution-multiple-incorporate-shareholders-LTD-incorporation-v2.docx",
+      "section": "",
+      "issue": "Missing jurisdiction clause",
+      "severity": "High",
+      "suggestion": "Add an explicit jurisdiction clause specifying ADGM Courts if this document governs ADGM entities."
+    }
+  ]
+}
