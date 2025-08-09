@@ -54,10 +54,12 @@ ADGM_corporate_agent/
    python -m venv venv
    venv\Scripts\activate
 
-Install Dependencies
-pip install --upgrade pip
-pip install -r requirements.txt
+3. **Install Dependencies**
+   ```bash
+   pip install --upgrade pip
+   pip install -r requirements.txt
 
-Running the file 
-streamlit run app.py
+4. **Running the file**
+   ```bash 
+    streamlit run app.py
 
